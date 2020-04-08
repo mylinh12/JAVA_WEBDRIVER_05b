@@ -21,7 +21,7 @@ public class Topic_02_Xpath_Css {
 		String homePageUrl = driver.getCurrentUrl();
 		Assert.assertEquals(homePageUrl, "http://demo.guru99.com/v4/");
 		
-		System.out.println("Changed file");
+		System.out.println("Changed file!!");
 	}
 	
 	@BeforeClass
