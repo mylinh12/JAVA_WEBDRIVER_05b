@@ -21,7 +21,7 @@ public class Topic_01_CheckEnviroment {
 		String homePageUrl = driver.getCurrentUrl();
 		Assert.assertEquals(homePageUrl, "http://demo.guru99.com/v4/");
 		
-		System.out.println("Changed file");
+		System.out.println("Push code check again");
 	}
 	
 	@BeforeClass
