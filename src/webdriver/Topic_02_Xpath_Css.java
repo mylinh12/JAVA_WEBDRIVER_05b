@@ -10,7 +10,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.Assert;
 import org.testng.annotations.AfterClass;
 
-public class Topic_01_CheckEnviroment {
+public class Topic_02_Xpath_Css {
 	WebDriver driver;
 
 	@Test
